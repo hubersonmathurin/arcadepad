@@ -1,5 +1,5 @@
 # Arcadepad
-Arcadepad is a 6 key retro-themed macropad. It comes with a rotary encoder, an OLED display, and utilizes kmk firmware
+Arcadepad is a 6 key retro-themed macropad. It comes with a rotary encoder, an OLED display, and utilizes kmk firmware. The attached program allows switching through 3 layers, for a total of 18 commonly used 3d and 2d commands
 
 This design was inspired by HackClub's HackPad tutorial
 ## Cad Model: Fusion 360
