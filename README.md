@@ -9,3 +9,12 @@ This macropad consists of 2 printed pieces, the case, which holds the PCB, and t
 ![alt text](assets/schematic.png)
 ![alt text](assets/pcb2D.png)
 ![alt text](assets/pcb3D.png)
+## Bill Of Materials
+- Cherry MX Switches(6)
+- Blank DSA Keycaps(6)
+- Seeed XIAO RP2040(1)
+- EC11 Rotary Encoder(1)
+- SSD1306 OLED Display(1)
+- M3X13 Screws(8)
+- M3x5mmx4mm Heatset Inserts(8)
+- 3D Printes Case & Cover(1)
