@@ -3,12 +3,11 @@ Arcadepad is a 6 key retro-themed macropad. It comes with a rotary encoder, an O
 
 This design was inspired by HackClub's HackPad tutorial
 ## Cad Model: Fusion 360
-![alt text](assets/fullCad.png)
+![alt text](assets/newFullCad.png)
 This macropad consists of 2 printed pieces, the case, which holds the PCB, and the cover. The PCB screws into 4 mounting holes, which will be filled with M3 bolts and heatset inserts, located at the bottom of the cover, not visible in picture. The case is held together with 4 more heatset inserts and M3 boots. 
 ## PCB: KiCad
-![alt text](assets/schematic.png)
-![alt text](assets/pcb2D.png)
-![alt text](assets/pcb3D.png)
+![alt text](assets/newSchematic.png)
+![alt text](assets/newPcb.png)
 ## Bill Of Materials
 - Cherry MX Switches(6)
 - Blank DSA Keycaps(6)
