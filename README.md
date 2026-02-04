@@ -3,4 +3,4 @@ Arcadepad is a 6 key retro-themed macropad. It comes with a rotary encoder, an O
 
 This design was inspired by HackClub's HackPad tutorial
 ## Cad Model
-![alt text](assets/fullCad.png])
+![alt text](assets/fullCad.png)
